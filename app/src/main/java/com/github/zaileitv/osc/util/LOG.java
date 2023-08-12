@@ -8,7 +8,7 @@ import android.util.Log;
  * @description:
  */
 public class LOG {
-    private static String TAG = "ZaiLeiTV";
+    private static String TAG = "在类影视TV版";
 
     public static void e(String msg) {
         Log.e(TAG, "" + msg);
