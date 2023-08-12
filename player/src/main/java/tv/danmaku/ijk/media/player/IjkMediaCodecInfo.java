@@ -85,7 +85,7 @@ public class IjkMediaCodecInfo {
         sKnownCodecList.put("OMX.TI.DUCATI1.VIDEO.DECODER", RANK_TESTED);
 
         // ------ RockChip ------
-        // Youku TVBox
+        // Youku ZaiLeiTV
         sKnownCodecList.put("OMX.rk.video_decoder.avc", RANK_TESTED);
 
         // ------ AMLogic -----
