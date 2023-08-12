@@ -393,7 +393,7 @@ public class HomeActivity extends BaseActivity {
             super.onBackPressed();
         } else {
             mExitTime = System.currentTimeMillis();
-            Toast.makeText(mContext, "再按一次返回键退出应用", Toast.LENGTH_SHORT).show();
+            Toast.makeText(mContext, "再按一次离开【在类影视TV版】", Toast.LENGTH_SHORT).show();
         }
     }
 
