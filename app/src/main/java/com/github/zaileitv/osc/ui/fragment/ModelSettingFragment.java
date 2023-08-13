@@ -480,9 +480,9 @@ public class ModelSettingFragment extends BaseLazyFragment {
 
     String getSearchView(int type) {
         if (type == 0) {
-            return "文字列表";
-        } else {
             return "缩略图";
+        } else {
+            return "文字列表";
         }
     }
 }
